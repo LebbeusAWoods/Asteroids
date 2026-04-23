@@ -1,0 +1,1 @@
+Asteroids is a project to recreate the classic arcade game "Asteroids" and is being done as part of the Boot.dev course.
