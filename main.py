@@ -46,6 +46,7 @@ def main():
         for i in drawable:
             i.draw(screen)
         updatable.update(dt)
+        p1.shot_cooldown -= dt
         for a in asteroids:
             if a.collides_with(p1):
                 log_event("player_hit")
