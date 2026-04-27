@@ -25,7 +25,8 @@ This project reimplements the iconic 1979 Atari arcade game using pygame. The go
 
 | Key            | Action        |
 |----------------|---------------|
-| `W`            | Thrust forward |
+| `W`            | Move forward |
 | `A`            | Rotate left   |
 | `D`            | Rotate right  |
+| `S`            | Move backwards  |
 | `Space`        | Shoot         |
